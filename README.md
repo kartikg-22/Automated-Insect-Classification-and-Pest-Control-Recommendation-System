@@ -14,6 +14,10 @@ The project utilizes the IP102 dataset containing:
 
 Dataset available [here](https://www.kaggle.com/datasets/rtlmhjbn/ip02-dataset).
 
+##  Flowchart of Methodology
+![Pipeline](images/Pipeline_yolo_2.jpg)
+
+
 ## Models Used
 
 Two models were implemented and evaluated:
