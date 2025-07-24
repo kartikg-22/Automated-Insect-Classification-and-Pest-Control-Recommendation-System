@@ -1,5 +1,7 @@
 # Automated Insect Classification and Pest Control Recommendation System
 
+[Slide Deck (PDF)](images/Automated_Insect_Classification_and_Pest_Control_Recommendation_System_ppt.pdf)
+
 ## Overview
 
 This project aims to automate insect pest identification and recommend appropriate pesticides using advanced deep learning techniques. By leveraging state-of-the-art neural networks, the system efficiently classifies insect species from agricultural images and provides accurate pesticide recommendations.
