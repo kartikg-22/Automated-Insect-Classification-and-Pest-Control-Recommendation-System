@@ -14,10 +14,6 @@ The project utilizes the IP102 dataset containing:
 
 Dataset available [here](https://www.kaggle.com/datasets/rtlmhjbn/ip02-dataset).
 
-##  Flowchart of Methodology
-![Pipeline](images/Pipeline_yolo_2.jpg)
-
-
 ## Models Used
 
 Two models were implemented and evaluated:
@@ -33,6 +29,9 @@ Two models were implemented and evaluated:
 * Better object detection performance (mAP\@0.5: 55.48%)
 
 YOLOv5s was selected for its superior speed and object detection capabilities, making it suitable for real-time applications.
+
+##  Flowchart of Methodology
+![Pipeline](images/Pipeline_yolo_2.jpg)
 
 ## Methodology
 
