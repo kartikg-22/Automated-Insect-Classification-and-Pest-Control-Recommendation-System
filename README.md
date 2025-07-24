@@ -31,7 +31,7 @@ Two models were implemented and evaluated:
 YOLOv5s was selected for its superior speed and object detection capabilities, making it suitable for real-time applications.
 
 ##  Flowchart of Methodology
-![Pipeline](images/Pipeline_yolo_2.jpg)
+![Pipeline](images/flowchart_pipeline_yolo.jpg)
 
 ## Methodology
 
